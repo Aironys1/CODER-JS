@@ -12,3 +12,5 @@ while (opcao != 0 ){
 
 console.log("Até a próxima")
 
+console.log('\n\n','FIM !!!')
+console.log('\n\n', '.............')

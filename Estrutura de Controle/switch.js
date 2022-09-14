@@ -34,3 +34,6 @@ imprimirResultado(8.1)
 imprimirResultado(3.9)
 imprimirResultado(-15)
 imprimirResultado(25)
+
+console.log('\n\n','FIM !!!')
+console.log('\n\n', '.............')

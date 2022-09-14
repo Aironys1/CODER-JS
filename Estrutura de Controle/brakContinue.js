@@ -24,3 +24,4 @@ externo: for (a in num1) {
 }
 
 console.log('\n\n','FIM !!!')
+console.log('\n\n', '.............')
